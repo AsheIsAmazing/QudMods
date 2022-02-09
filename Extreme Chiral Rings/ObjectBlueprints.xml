@@ -1,0 +1,5 @@
+<objects>
+  <object Name="Chiral Rings" Inherits="BaseFloat" Load="Merge">
+    <part Name="DismemberAdjacentHostiles" ChargeUse="1000" ChancePerHostile="100" UsesChargePerDismemberment="true" UsesChargeToActivate="false" UsesChargePerHostile="false" />
+  </object>
+</objects>
