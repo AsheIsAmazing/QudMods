@@ -1,1 +1,1 @@
-This is my Qud mods that anyone can use or modify.
+These is my Qud mods that anyone can use or modify.
