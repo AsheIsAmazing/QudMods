@@ -1,0 +1,32 @@
+<objects>
+  <object Name="Mechanimist Convert" Inherits="NPC" Load="Merge">
+    <removepart Name="HasSlaves" />
+  </object>
+  <object Name="Pariah" Inherits="NPC" Load="Merge">
+    <removepart Name="HasSlaves" />
+  </object>
+  <object Name="Pariah Still" Inherits="NPC" Load="Merge">
+    <removepart Name="HasSlaves" />
+  </object>
+  <object Name="Pariah Still Unique" Inherits="NPC" Load="Merge">
+    <removepart Name="HasSlaves" />
+  </object>
+  <object Name="Merchant Guard" Inherits="NPC" Load="Merge">
+    <removepart Name="HasSlaves" />
+  </object>
+	<object Name="Kyakukyan Convert" Inherits="NPC" Load="Merge">
+      <removepart Name="HasSlaves" />	
+	</object>
+	<object Name="Kyakukyan Convert NoWander" Inherits="NPC" Load="Merge">
+      <removepart Name="HasSlaves" />		
+	</object>
+	<object Name="Yd Freeholder" Inherits="NPC" Load="Merge">
+      <removepart Name="HasSlaves" />		
+	</object>
+	<object Name="Yd Freeholder Still" Inherits="NPC" Load="Merge">
+      <removepart Name="HasSlaves" />		
+	</object>
+	<object Name="Yd Freeholder Sitting" Inherits="NPC" Load="Merge">
+      <removepart Name="HasSlaves" />		
+	</object>
+</objects>
