@@ -1,1 +1,1 @@
-Lobomotizes pulsed field magnets, since that was the easiest way of stopping them from doing magnet things. Additionally makes them worth 0xp and never drop a high powered magnet as a corpse, so they're not worth anything, since they pose no threat to anyone.
+Lobotomotizes pulsed field magnets, since that was the easiest way of stopping them from doing magnet things. Additionally makes them worth 0xp and never drop a high powered magnet as a corpse, so they're not worth anything, since they pose no threat to anyone.
