@@ -15,18 +15,18 @@
     <removepart Name="HasSlaves" />
   </object>
 	<object Name="Kyakukyan Convert" Inherits="NPC" Load="Merge">
-      <removepart Name="HasSlaves" />	
+	  <removepart Name="HasSlaves" />	
 	</object>
 	<object Name="Kyakukyan Convert NoWander" Inherits="NPC" Load="Merge">
-      <removepart Name="HasSlaves" />		
+	  <removepart Name="HasSlaves" />		
 	</object>
 	<object Name="Yd Freeholder" Inherits="NPC" Load="Merge">
-      <removepart Name="HasSlaves" />		
+	  <removepart Name="HasSlaves" />		
 	</object>
 	<object Name="Yd Freeholder Still" Inherits="NPC" Load="Merge">
-      <removepart Name="HasSlaves" />		
+	  <removepart Name="HasSlaves" />		
 	</object>
 	<object Name="Yd Freeholder Sitting" Inherits="NPC" Load="Merge">
-      <removepart Name="HasSlaves" />		
+	  <removepart Name="HasSlaves" />		
 	</object>
 </objects>
