@@ -1,0 +1,29 @@
+<objects>
+  <object Name="Life Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Strength Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Toughness Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Agility Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Intelligence Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Ego Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Willpower Sap" Inherits="BaseStatSap" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Enigma Snail" Inherits="BaseSnail" Load="Merge">
+    <removepart Name="SapOnPenetration" />
+  </object>
+  <object Name="Sap_Bite" Inherits="Bite" Load="Merge">
+    <part Name="MeleeWeapon" PenBonus="3" BaseDamage="1" />
+  </object>
+</objects>
