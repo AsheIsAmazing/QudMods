@@ -1,0 +1,7 @@
+<objects>
+  <object Name="Pulsed Field Magnet" Inherits="BaseRobot" Load="Merge">
+    <removepart Name="Brain" />
+	<stat Name="XPValue" sValue="0" Value="0" />
+	<part Name="Corpse" CorpseChance="0" CorpseBlueprint="High-Powered Magnet" />
+  </object>
+</objects>
