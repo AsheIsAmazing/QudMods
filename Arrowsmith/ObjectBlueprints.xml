@@ -1,0 +1,23 @@
+<objects>
+  <object Name="Steel Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Steel Dagger" NumberMade="100" />
+  </object>
+  <object Name="Carbide Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Dagger3" NumberMade="100" />
+  </object>
+  <object Name="Folded Carbide Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Dagger4" NumberMade="100" />
+  </object>
+  <object Name="Fullerite Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Dagger5" NumberMade="100" />
+  </object>
+  <object Name="Crysteel Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Dagger6" NumberMade="100" />
+  </object>
+  <object Name="Flawless Crysteel Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Dagger7" NumberMade="100" />
+  </object>
+  <object Name="Zetachrome Arrow" Inherits="BaseArrow" Load="Merge">
+    <part Name="TinkerItem" Bits="C" CanBuild="true" CanDisassemble="false" Ingredient="Dagger8" NumberMade="100" />
+  </object>
+</objects>
