@@ -1,0 +1,1 @@
+All metal arrows can be crafted with one scrap metal and the corresponding metal's dagger in batches of 100. The recipes will need to be learned first, but as they have a complexity of 0, psychometry will grant easy access to them for the discerning arrow user.
