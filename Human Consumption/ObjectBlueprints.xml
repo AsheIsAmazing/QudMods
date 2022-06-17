@@ -1,0 +1,58 @@
+<objects>
+  <object Name="Human Corpse" Inherits="Corpse" Load="Merge">
+    <part Name="Butcherable" OnSuccess="Raw Human Meat" />
+  </object>
+  <object Name="Mangled Corpse" Inherits="Corpse" Load="Merge">
+    <part Name="Butcherable" OnSuccess="Raw Human Meat" />
+  </object>
+  <object Name="Fresh Corpse" Inherits="Corpse" Load="Merge">
+    <part Name="Butcherable" OnSuccess="Raw Human Meat" />
+  </object>
+  <object Name="HumanRemains" Inherits="Corpse" Load="Merge">
+    <part Name="Butcherable" OnSuccess="Raw Human Meat" />
+  </object>
+  <object Name="SkrefCorpse" Inherits="Corpse" Load="Merge">
+    <part Name="Butcherable" OnSuccess="Raw Human Meat" />
+  </object>
+  <object Name="Raw Human Meat" Inherits="Raw Meat">
+    <part Name="Render" DisplayName="{{r|raw human meat}}" Tile="Items/sw_rawmeat1.bmp" />
+    <part Name="Description" Short="A slab of fresh human meat." />
+    <part Name="Food" Message="Succulent and tender." />
+    <part Name="Physics" Weight="4" />
+    <part Name="Commerce" Value="3" />
+    <part Name="PreservableItem" Result="Human Jerky" Number="4" />
+  </object>
+  <object Name="Human Jerky" Inherits="Jerky">
+    <part Name="Render" DisplayName="human jerky" Tile="Items/sw_jerky2.bmp" />
+    <part Name="Description" Short="A strip of smoked human flesh." />
+  </object>
+  <object Name="Reclamation Cist" Inherits="Furniture">
+    <part Name="Render" DisplayName="{{r|reclamation cist}}" ColorString="&amp;K" DetailColor="r" RenderString="127" Tile="Items/sw_iron_maiden.bmp" Occluding="false" RenderIfDark="true" />
+    <part Name="Physics" Weight="300" Takeable="false" Solid="false" />
+    <part Name="Description" Short="A coffin-shaped metal box whose walls conceal an array of precision instruments used to reclaim the resources the community invests in its members when they are no longer in use." />
+    <part Name="BroadcastPowerReceiver" ChargeRate="50" />
+    <part Name="ElectricalPowerTransmission" ChargeRate="1000" IsConsumer="true" />
+    <part Name="Capacitor" MaxCharge="3000" ChargeRate="200" />
+    <part Name="ReclamationCist" />
+    <part Name="Metal" />
+    <part Name="Examiner" UnknownDisplayName="bizarre contraption" AlternateDisplayName="bizarre contraption" Complexity="4" Difficulty="2" />
+    <part Name="TinkerItem" Bits="00145" CanDisassemble="false" CanBuild="false" />
+    <property Name="DontWarnOnOpen" Value="true" />
+    <part Name="Container" />
+    <part Name="Inventory" />
+    <stat Name="AV" Value="16" />
+    <stat Name="Hitpoints" Value="300" />
+    <tag Name="HeroNameTitleDescriptor" Value="Biocyclic,Crimson,Cubist,Ecological,Sanguine" />
+    <tag Name="HeroNameTitleClientele" Value="Arcologies,Protein,Recyclers,Sustainability,the Hungry,the True" />
+    <tag Name="NamingTag" Value="Animated" />
+    <tag Name="BodyType" Value="RailedMechanism" />
+    <part Name="Animated" ChanceOneIn="15000" />
+    <tag Name="Animatable" />
+    <tag Name="AnimatedSkills" Value="CookingAndGathering_Butchery,Dual_Wield,ShortBlades" />
+    <tag Name="DynamicObjectsTable:AnimatableFurniture" />
+		<tag Name="Class" Value="infrastructure" />
+    <tag Name="Tier" Value="5" />
+    <stag Name="Recycling" />
+    <intproperty Name="Inorganic" Value="1" />
+  </object>
+</objects>
