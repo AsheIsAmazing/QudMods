@@ -1,0 +1,1 @@
+Fresh, quality human corpses can be butchered into human meat and preseved into human jerky. Enables reclamation cists to spawn dynamically, which are a furniture object present in the base game files that turns True Kin corpses and limbs into food cubes when powered.
