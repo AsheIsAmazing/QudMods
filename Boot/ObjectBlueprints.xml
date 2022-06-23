@@ -1,0 +1,22 @@
+<objects>
+  <object Name="BaseBootSingular" Inherits="Armor">
+    <part Name="Armor" WornOn="Foot" />
+    <tag Name="Mods" Value="BootMods,CommonMods" />
+    <part Name="Render" Tile="Items/item_0-10.bmp" />
+    <part Name="Examiner" AlternateDisplayName="boot" />
+    <tag Name="BaseObject" Value="*noinherit" />
+    <tag Name="Gender" Value="plural" />
+  </object>
+  <object Name="BootSingular" Inherits="BaseBootSingular">
+    <part Name="Armor" AV="1" DV="0" WornOn="Foot" />
+    <part Name="Render" DisplayName="boot" RenderString="]" Tile="Items/item_0-10.bmp" ColorString="&amp;y" />
+    <part Name="Commerce" Value="25" />
+    <part Name="Description" Short="It's a metal boot, fit for a singular foot." />
+    <part Name="Physics" Weight="2" />
+	<part Name="Metal" />
+    <part Name="Examiner" AlternateDisplayName="strange tube" Complexity="2" Difficulty="1" />
+    <part Name="TinkerItem" Bits="002" CanDisassemble="true" CanBuild="true" />
+    <tag Name="Tier" Value="2" />
+    <property Name="Role" Value="Uncommon" />
+  </object>
+</objects>
