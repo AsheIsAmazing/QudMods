@@ -1,0 +1,5 @@
+<objects>
+  <object Name="Snapjaw Spearfiend" Inherits="Snapjaw Troglodyte" Load="Merge">
+    <part Name="Render" DisplayName="snapjaw spearfriend" Tile="Creatures/sw_snapjaw_spearthrower.bmp" ColorString="&amp;r" DetailColor="g" />
+  </object>
+</objects>
