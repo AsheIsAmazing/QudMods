@@ -1,0 +1,6 @@
+<factions>
+
+  <faction Name="Cats" InitialPlayerReputation="0" Load="Merge">
+  </faction>
+
+</factions>

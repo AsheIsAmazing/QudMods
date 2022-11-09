@@ -1,0 +1,5 @@
+<objects>
+  <object Name="Chitinous Puma" Inherits="BaseCat" Load="Merge">
+    <part Name="Brain" Hostile="true" />
+  </object>
+</objects>
