@@ -1,0 +1,1 @@
+(Mostly) vanilla functionality I just flicked on, so I can't promsie it works properly on the C# side of things. Find the {{c|smart}} mod and use it to boost the accuracy of weapons that have been scoped. Requires the use of an interface capable of techscanning, or eyewear with the HUD mod.
