@@ -1,0 +1,6 @@
+<mods>
+  <mod Part="ModSmart" Tables="FirearmMods" Rarity="R" MinTier="4" TinkerTier="6" CanAutoTinker="false" TinkerDisplayName="smart" Value="1.3" />
+  
+  <mod Part="ModHUD" Tables="EyewearMods" Rarity="U" MinTier="3" NativeTier="5" TinkerTier="3" CanAutoTinker="false" TinkerDisplayName="HUD" Value="1.5" />
+  
+</mods>
