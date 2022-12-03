@@ -1,0 +1,11 @@
+<objects>
+  <object Name="Magazine Loaded Sniper Rifle" Inherits="Sniper Rifle">
+    <part Name="Render" DisplayName="sniper rifle (extended magazine)" />
+    <part Name="Commerce" Value="400" />
+    <part Name="MagazineAmmoLoader" MaxAmmo="6" />
+    <part Name="Description" Short="Expert rifling grooved its carbon steel barrel to helical precision. Smudges are printed on the scope glass. A detachable box magazine is slotted into the receiver on the underside of the weapon. " />
+    <part Name="TinkerItem" Bits="0015" CanDisassemble="true" CanBuild="true" />
+    <tag Name="Tier" Value="4" />
+    <part Name="Examiner" AlternateDisplayName="rifle" Complexity="2" Difficulty="1" />
+  </object>
+</objects>
