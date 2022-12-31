@@ -1,0 +1,3 @@
+<mods>
+  <mod Part="ModColossal" TinkerTier="8" TinkerAllowed="true" BonusAllowed="true" Load="Merge" />
+</mods>
