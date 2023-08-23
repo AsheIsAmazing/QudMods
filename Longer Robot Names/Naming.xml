@@ -1,0 +1,25 @@
+<naming>
+  <namestyles>
+    <namestyle Name="Robot" Load="Merge">
+     <infixes Amount="500">
+        <infix Name="[ERROR: MISSING HEX VALUE]" />
+        <infix Name="0" Weight="2" />
+        <infix Name="1" Weight="2" />
+        <infix Name="2" Weight="2" />
+        <infix Name="3" Weight="2" />
+        <infix Name="4" Weight="2" />
+        <infix Name="5" Weight="2" />
+        <infix Name="6" Weight="2" />
+        <infix Name="7" Weight="2" />
+        <infix Name="8" Weight="2" />
+        <infix Name="9" Weight="2" />
+        <infix Name="A" Weight="2" />
+        <infix Name="B" Weight="2" />
+        <infix Name="C" Weight="2" />
+        <infix Name="D" Weight="2" />
+        <infix Name="E" Weight="2" />
+        <infix Name="F" Weight="2" />
+      </infixes>
+	</namestyle>
+  </namestyles>
+</naming>
