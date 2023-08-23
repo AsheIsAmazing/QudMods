@@ -1,7 +1,7 @@
 <naming>
   <namestyles>
     <namestyle Name="Robot" Load="Merge">
-     <infixes Amount="500">
+     <infixes Amount="512">
         <infix Name="[ERROR: MISSING HEX VALUE]" />
         <infix Name="0" Weight="2" />
         <infix Name="1" Weight="2" />
