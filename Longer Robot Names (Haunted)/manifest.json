@@ -1,7 +1,7 @@
 {
-	"id": "Longer Robot Names",
-	"title": "{{C|Longer Robot Names}}",
-	"description": "Robot names are incredibly long strings.",
+	"id": "Longer Robot Names (Haunted)",
+	"title": "{{C|Longer Robot Names (Haunted)}}",
+	"description": "Robot names are incredibly long strings. Does not change the ratio of alphanumericals to missing hex values, causing even longer names.",
 	"author": "Ashe",
 	"previewImage": "preview.png"
 }
