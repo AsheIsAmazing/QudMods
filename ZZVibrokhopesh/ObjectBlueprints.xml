@@ -1,0 +1,6 @@
+<objects>
+  <object Name="Ceremonial Khopesh" Inherits="Long Sword3" Load="Merge">
+		<tag Name="SwingSound" Value="Sounds/Melee/longBlades/sfx_melee_longBlade_vibro_swing" />
+		<tag Name="BlockedSound" Value="Sounds/Melee/multiUseBlock/sfx_melee_vibro_blocked" />
+	</object>
+</objects>
