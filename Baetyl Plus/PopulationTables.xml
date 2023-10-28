@@ -1,9 +1,7 @@
 <populations>
   <population Name="CommonOddEncounters" Load="Merge">
     <group Name="Types" Style="pickone" Load="Merge">
-      <!-- a sparking baetyl -->
-      <group Name="SparkingBaetyl" Weight="2" Style="pickeach">
-        <object Weight="1" Number="1" Blueprint="SparkingBaetyl" />
+      <group Name="Baetyl" Weight="3" Style="pickeach" Load="Merge">
       </group>
     </group>
   </population>

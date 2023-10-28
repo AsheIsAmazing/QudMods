@@ -1,0 +1,42 @@
+<sparkingbaetyls>
+
+  <rewards>
+
+    <reward
+        Name="MeleeWeapon"
+        Load="Merge"
+        ItemMinorBestowalChance="100"
+        ItemElementBestowalChance="50"
+    />
+
+    <reward
+        Name="Armor"
+        Load="Merge"
+        ItemMinorBestowalChance="100"
+        ItemElementBestowalChance="50"
+    />
+
+    <reward
+        Name="MissileWeapon"
+        Description="A BLAZING CANNON"
+        Load="Merge"
+        ItemMinorBestowalChance="100"
+        ItemElementBestowalChance="50"
+    />
+
+    <reward
+        Name="Artifact"
+        Description="A PECULIAR CONTRAPTION"
+        Load="Merge"
+        ItemMinorBestowalChance="100"
+        ItemElementBestowalChance="50"
+    />
+  </rewards>
+
+    <reward
+        Name="Artifact"
+        Load="Merge"
+		Chance="0"
+    />
+	
+</sparkingbaetyls>
