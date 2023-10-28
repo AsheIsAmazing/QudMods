@@ -1,0 +1,5 @@
+<objects>
+  <object Name="SparkingBaetyl" Inherits="Baetyl" Load="Merge">
+    <part Name="RandomAltarBaetyl" ItemMinorBestowalChance="100" ItemElementBestowalChance="50"/>
+  </object>
+</objects>
