@@ -2,4 +2,4 @@ Makes Baetyls 3x more common, makes them always reward relics (though not always
 
 Not intended to be balanced with the main game, I just think it's more fun this way.
 
-Thank helado for teaching me how to do the harmony patch!
+Thank Sol for teaching me how to do the harmony patch!
