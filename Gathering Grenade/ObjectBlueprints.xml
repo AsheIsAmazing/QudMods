@@ -11,5 +11,6 @@
     <tag Name="Tier" Value="6" />
     <tag Name="ExcludeFromTurretStock" />
     <tag Name="Role" Value="Rare" />
+    <tag Name="NoSparkingQuest" />
   </object>
 </objects>
