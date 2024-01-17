@@ -1,0 +1,15 @@
+<objects>
+  <object Name="GatheringGrenade3" Inherits="Grenade">
+    <part Name="Render" DisplayName="{{c|gathering}} grenade mk III" Tile="Items/sw_grenade_mkiii.bmp" ColorString="&amp;c" />
+    <part Name="Physics" Weight="9" />
+    <part Name="Commerce" Value="50" />
+    <part Name="DeploymentGrenade" Blueprint="FoldingChair" Count="8" Radius="3" RealRadius="true" LoyalToThrower="true" ActivationVerb="deploy" BlockedBySolid="true" BlockedByNonEmpty="true" DustPuff="true" DustPuffEach="true" />
+    <part Name="Description" Short="A thick metal jacket encases the explosive and is clamped to a quick-release lever. The lever is buoyed by a multidirectional spring-loaded mechanism." />
+    <part Name="MissileStatusColor" Color="C" />
+    <part Name="TinkerItem" Bits="045" CanBuild="false" />
+    <tag Name="Mark" Value="3" />
+    <tag Name="Tier" Value="6" />
+    <tag Name="ExcludeFromTurretStock" />
+    <tag Name="Role" Value="Rare" />
+  </object>
+</objects>
