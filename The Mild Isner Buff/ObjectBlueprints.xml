@@ -1,0 +1,5 @@
+<objects>
+  <object Name="ProjectileRuinsOfHouseIsnerShell" Inherits="BaseLeadSlugProjectile" Load="Merge">
+    <part Name="Projectile" BasePenetration="6" BaseDamage="1d10" />
+  </object>
+</objects>
