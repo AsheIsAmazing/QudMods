@@ -1,0 +1,12 @@
+<objects>
+  <object Name="0lam" Inherits="Giant Clam" Load="Merge">
+    <part Name="ExtradimensionalInventory" Chance="100" WaresChance="100" />
+    <tag Name="InventoryPopulationTable" Value="{{{remove}}}" />
+	<part Name="GenericInventoryRestocker" Table="0lamInventory" Chance="71" />
+  </object>
+  <object Name="Hamilcrab" Inherits="Great Magma Crab" Load="Merge">
+    <part Name="GiganticInventory" Chance="100" WaresChance="100" />
+    <tag Name="InventoryPopulationTable" Value="{{{remove}}}" />
+	<part Name="GenericInventoryRestocker" Table="HamilcrabInventory" Chance="71" />
+  </object>
+</objects>
