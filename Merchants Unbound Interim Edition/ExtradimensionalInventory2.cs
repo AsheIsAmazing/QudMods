@@ -48,6 +48,7 @@ public class Ashe_ExtradimensionalInventory2 : IPart
 			if (!item.HasPart<ModExtradimensional>() && Stat.Random(1, 100) <= Chance && !(item.GetTag("Mods") == "None"))
 			{
 				item.AddPart(new ModExtradimensional());
+				item.RemoveIntProperty("Important");
 				if (WaresChance.in100())
 				{
 					item.SetIntProperty("_stock", 1);
