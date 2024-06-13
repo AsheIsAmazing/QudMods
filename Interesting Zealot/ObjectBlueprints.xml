@@ -1,0 +1,5 @@
+<objects>
+  <object Name="VillageZeroConvert" Load="Merge">
+    <part Name="Interesting" />
+  </object>
+</objects>
