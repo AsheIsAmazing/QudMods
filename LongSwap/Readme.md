@@ -1,0 +1,1 @@
+Gain the power to wish yourself into the body of any visible creature by using the wish \"longswap\". Your original body will still run amok if the \"Disable Player Brain Hijacking\" debug option is not in use.
