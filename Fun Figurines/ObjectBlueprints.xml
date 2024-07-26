@@ -1,0 +1,11 @@
+<objects>
+  <object Name="SkybearClone" Load="Merge">
+	<tag Name="NoFigurine" Value="{{{remove}}}" />
+  </object>
+  <object Name="Rhinox" Load="Merge">
+	<tag Name="NoFigurine" Value="{{{remove}}}" />
+  </object>
+  <object Name="Crypt Ferret" Load="Merge">
+	<tag Name="NoFigurine" Value="{{{remove}}}" />
+  </object>
+</objects>
