@@ -1,0 +1,7 @@
+{
+	"id": "Ashe_RemoveAbilities",
+	"title": "{{W|Remove Abilities}}",
+	"description": "Remove abilities with the syntax `removeability CommandName`.",
+	"author": "Ashe",
+	"previewImage": "preview.png"
+}
