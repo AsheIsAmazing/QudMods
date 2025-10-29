@@ -4,6 +4,8 @@ using XRL.Rules;
 using XRL.World;
 using XRL.World.Parts;
 
+namespace XRL.World.Parts {
+
 public class Ashe_ExtradimensionalInventory2 : IPart
 {
 	public int Chance = 100;
@@ -56,4 +58,5 @@ public class Ashe_ExtradimensionalInventory2 : IPart
 			}
 		}
 	}
+}
 }
